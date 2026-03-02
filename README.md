@@ -60,3 +60,6 @@ Incorrect password win results in decryption failure.
 
 This project is developed strickly for educational and internship purposes.
 
+## OUTPUT:
+
+<img width="1007" height="683" alt="Image" src="https://github.com/user-attachments/assets/1f051f20-75ed-46e4-80da-ab922e2c4b05" />
